@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/nabarup-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabarup-roy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22744816/nabarup-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nabarup-roy" height="30" width="40" /></a>
 <a href="https://instagram.com/dev_nabarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_nabarup" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/nr_developer](https://www.youtube.com/channel/UCrEi2b7_swbGMwLFgzzTU4Q)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nr_developer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrEi2b7_swbGMwLFgzzTU4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nr_developer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nabarup_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nabarup_roy" height="30" width="40" /></a>
 </p>
 
